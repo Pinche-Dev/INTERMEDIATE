@@ -1,0 +1,12 @@
+{
+  "name": "02-GulpTut2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "dart-sass": "^1.25.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "gulp-uglifycss": "^1.1.0"
+  }
+}
