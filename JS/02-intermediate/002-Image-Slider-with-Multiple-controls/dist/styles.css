@@ -1,0 +1,29 @@
+h1 {
+  font-size: large;
+}
+
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+.btn:hover {
+  opacity: 0.8;
+}
+
+.btn2 {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+.btn2:hover {
+  opacity: 0.8;
+}
