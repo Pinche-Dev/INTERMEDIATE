@@ -91,13 +91,7 @@ void putChar()
         cout << endl;
         xTurn = true;
     }
-    if (arr[i] != 'X' || arr[i] != 'O')
-    {
-        arr[i] = C;
-        draw_board();
-        check_winner();
-    }
-    else
+    if (arr[i] == 'X')
     {
         cout << i << " is already taken choose a number from (1-9) " << endl;
         if (xTurn)
@@ -111,6 +105,31 @@ void putChar()
         draw_board();
         putChar();
     }
+    else if (arr[i] == 'O')
+    {
+        cout << i << " is already taken choose a number from (1-9) " << endl;
+        if (xTurn)
+        {
+            xTurn = false;
+        }
+        else
+        {
+            xTurn = true;
+        }
+        draw_board();
+        putChar();
+    }
+    if (arr[i] != 'X' || arr[i] != 'O')
+    {
+        arr[i] = C;
+        draw_board();
+        check_winner();
+    }
+    else
+    {
+        return;
+    }
+
 }
 int main()
 {

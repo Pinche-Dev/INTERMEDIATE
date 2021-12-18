@@ -75,15 +75,15 @@ void turnX()
     cin >> i;
     cout << endl;
 
-    if (c1[i] != 'X' || c1[i] != 'O')
+    if (c1[i-1] == 'X' || c1[i-1] == 'O')
     {
-        c1[i - 1] = 'X';
+        cout << "c[" << i << "] already occupied with " << c1[i-1] << endl;
+        cout << "again its your turn X" << endl;
+        turnX();
     }
     else
     {
-        cout << "c[" << i << "] already occupied with " << c1[i] << endl;
-        cout << "again its your turn X" << endl;
-        turnX();
+        c1[i - 1] = 'X';
     }
 }
 void turnO()

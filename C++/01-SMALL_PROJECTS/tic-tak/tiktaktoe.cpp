@@ -93,17 +93,9 @@ void placeChar()
 
         xTurn = true;
     }
-    if (arr[i] != 'X' || arr[i] != 'O')
+    if (arr[i] == 'X' || arr[i] == 'O')
     {
-        arr[i] = C;
-        check_winner();
         draw_board();
-    }
-    else
-    {
-        cout << arr[i] << "already occupied " << C << " turn again" << endl;
-        draw_board();
-        placeChar();
         if (xTurn)
         {
             xTurn = false;
@@ -112,9 +104,17 @@ void placeChar()
         {
             xTurn = true;
         }
+        cout << arr[i] << "already occupied " << C << " turn again" << endl;
+        placeChar();
+    }
+    else
+    {
+
+        arr[i] = C;
+        check_winner();
+        draw_board();
     }
 }
-
 int main()
 {
     draw_board();
