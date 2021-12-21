@@ -1,0 +1,1 @@
+// -42 C++ Programming Questions Practice : Star Pattern 18

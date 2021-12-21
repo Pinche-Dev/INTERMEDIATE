@@ -1,0 +1,1 @@
+// -70 C++ Programming Questions Practice  Find all Factors of a Number

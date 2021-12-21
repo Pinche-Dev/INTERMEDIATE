@@ -1,0 +1,1 @@
+// -40 C++ Programming Questions Practice : Star Pattern 16 Diamond Pattern

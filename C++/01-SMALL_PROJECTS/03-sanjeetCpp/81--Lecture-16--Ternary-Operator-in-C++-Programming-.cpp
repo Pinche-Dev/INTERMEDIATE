@@ -1,0 +1,1 @@
+// -Lecture - 16 : Ternary Operator in C++ Programming

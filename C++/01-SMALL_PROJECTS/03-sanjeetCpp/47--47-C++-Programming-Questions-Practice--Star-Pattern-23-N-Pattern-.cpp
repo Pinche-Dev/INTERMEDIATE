@@ -1,0 +1,1 @@
+// -47 C++ Programming Questions Practice : Star Pattern 23 N - Pattern

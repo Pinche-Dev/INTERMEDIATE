@@ -1,0 +1,1 @@
+// -52 C++ Programming Questions Practice : Star Pattern 28 Hollow Triangle

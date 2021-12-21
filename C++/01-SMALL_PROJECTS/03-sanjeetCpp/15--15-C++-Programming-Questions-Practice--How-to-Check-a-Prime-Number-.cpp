@@ -1,0 +1,1 @@
+// -15 C++ Programming Questions Practice : How to Check a Prime Number
