@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "9e5a1186db190474",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e8e78e6a92c76a4",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42a9fb9befd30a56",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8d7e661212b163c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b01f60f014a1c38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd3aef2bb5cb0e40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 500
+  },
+  "right": {
+    "id": "6e595561e7881249",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fa0571acbab624c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "886afe72f6622449",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 1000,
+    "collapsed": true
+  },
+  "active": "5e8e78e6a92c76a4",
+  "lastOpenFiles": [
+    "Mentorship.md",
+    "thoughts.md",
+    "Untitled.md"
+  ]
+}

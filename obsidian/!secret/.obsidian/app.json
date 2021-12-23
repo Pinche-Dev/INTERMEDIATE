@@ -1,0 +1,14 @@
+{
+  "enabledPlugins": [
+    "obsidian-rollover-daily-todos",
+    "obsidian-plugin-todo",
+    "obsidian-checklist-plugin",
+    "table-editor-obsidian"
+  ],
+  "foldIndent": true,
+  "foldHeading": true,
+  "promptDelete": false,
+  "spellcheck": false,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true
+}

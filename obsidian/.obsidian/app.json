@@ -1,0 +1,10 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./media",
+  "newLinkFormat": "absolute",
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "fileSortOrder": "alphabetical"
+}

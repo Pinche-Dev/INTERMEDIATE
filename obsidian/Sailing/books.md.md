@@ -1,0 +1,3 @@
+- [ ] Napkin Finance
+- [ ] Broke Millenial
+- [ ] The Millionare real state

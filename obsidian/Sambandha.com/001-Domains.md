@@ -1,0 +1,7 @@
+- [ ] Sambandha.com
+- [ ] Sambandha.*
+- [ ] Lakhe.com
+- [ ] Lakhe.*
+- [ ] Sambandhapi.com
+- [ ] Sambandhaapi.com
+- [ ] bandhan.com

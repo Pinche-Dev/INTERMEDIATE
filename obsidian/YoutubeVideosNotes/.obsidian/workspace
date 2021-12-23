@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "61709cd7249b32a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d32764901337f0b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "003-Obsidian-A-Week-Later.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3af858098e3a958",
+    "type": "split",
+    "children": [
+      {
+        "id": "2af76b1abeb76fc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09748e5deb37638f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f15574b6328df633",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5774ac5e1097011",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f4a4a5d413d254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdbc2648ba0b3ce4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "003-Obsidian-A-Week-Later.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2d32764901337f0b",
+  "lastOpenFiles": [
+    "003-Obsidian-A-Week-Later.md",
+    "003-.md",
+    "002-.md",
+    "001-Productive-people.md",
+    "001-.md"
+  ]
+}

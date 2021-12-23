@@ -1,0 +1,3 @@
+## Why use classes instead of structures
+<https://www.codewithharry.com/videos/cpp-tutorials-in-hindi-21>
+Classes and structures are somewhat the same but still, they have some differences. For example, we cannot hide data in structures which means that everything is public and can be accessed easily which is a major drawback of the structure because structures cannot be used where data security is a major concern. Another drawback of structures is that we cannot add functions in it.

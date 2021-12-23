@@ -1,0 +1,4 @@
+# c++ProjectIdeas
+
+
+console clock

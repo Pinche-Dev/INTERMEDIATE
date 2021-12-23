@@ -1,0 +1,1 @@
+props.isLoading === true? <h1>isloading</h1>: <h1>isLoading is false</h1>

@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "913cc0df8c8ec191",
+    "type": "split",
+    "children": [
+      {
+        "id": "2486610bf4df4206",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Quotes/001-Advice from a old king.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b341072d12019f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6112c238eee37b04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c82bca516a8448a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3db52ff9dcfcbd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#programming",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323
+  },
+  "right": {
+    "id": "6cbdb39286a7ae80",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8afc6bbdac10f96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89d135ecdc4f99b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quotes/001-Advice from a old king.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ec5266d49ad050b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "61d6b3c5149d5a79",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2486610bf4df4206",
+  "lastOpenFiles": [
+    "Quotes/001-Advice from a old king.md",
+    "Quotes/000-MOC.md",
+    "Writings/Life/004-I am charging.md",
+    "Programming/Book-The_MODERN_JAVASCRIPT_COLLECTION/001-.md",
+    "Programming/Book-The_MODERN_JAVASCRIPT_COLLECTION/000-MOC.md",
+    "Programming/Book-The_MODERN_JAVASCRIPT_COLLECTION/008-G.md",
+    "00-template/000-MOC.md",
+    "00-template/111-.md",
+    "00-template/111- 1.md",
+    "Fish/001-Terms.md"
+  ]
+}

@@ -1,0 +1,2 @@
+<https://www.codewithharry.com/videos/cpp-tutorials-in-hindi-26>
+Friend functions are those functions that have the right to access the private data members of class even though they are not defined inside the class. It is necessary to write the prototype of the friend function. One main thing to note here is that if we have written the prototype for the friend function in the class it will not make that function a member of the class. An example program to demonstrate the concept of friend function is shown below. ^9b7f1b

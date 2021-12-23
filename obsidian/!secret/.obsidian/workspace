@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "bab31e0d6ef81664",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa0d74ddf30c8e85",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Thoughts/motivation.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9159c0e41316ca7",
+    "type": "split",
+    "children": [
+      {
+        "id": "df33c44b150c0c08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa5b5db60aff9196",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "10edaf9275ee76ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285
+  },
+  "right": {
+    "id": "171b0d9ca58300a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "732205f5d609697a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "952a3be059a87f68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Thoughts/motivation.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "306883f67c87393b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "36b7ee990a5a1aca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3a0dbfc63f3caa5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "edb2cdec832e589d",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "540ae083e827f55b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42f8a723c3a68d0f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "39449c325a2960b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbc948deb6989023",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "fb3c2a192fe2665c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcd092f48e0d20e9",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285,
+    "collapsed": true
+  },
+  "active": "aa0d74ddf30c8e85",
+  "lastOpenFiles": [
+    "Thoughts/motivation.md",
+    "skills.md",
+    "Arthur Schopenhauer - Wikipedia.md",
+    "writings/thoughts.md",
+    "writings/makeLifeGreat.md",
+    "writings/02 !chug it to success & !chunk it to success.md",
+    "writings/01Sowing Vs Reaping.md",
+    "Programming/react.md",
+    "Thoughts/quotes.md",
+    "Programming/reactHooks.md"
+  ]
+}

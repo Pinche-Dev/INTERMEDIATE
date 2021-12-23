@@ -1,0 +1,5 @@
+- [ ] tea
+- [ ] credit card without abroad fees
+- [ ] binaculars
+- [ ] sunglasses
+- [ ] 

@@ -1,0 +1,8 @@
+{
+  "baseFontSize": 22,
+  "cssTheme": "Amethyst",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "font"
+  ]
+}

@@ -1,0 +1,1 @@
+tip:: reverse engineer-> who is your final audience -> start from there and make your way back
