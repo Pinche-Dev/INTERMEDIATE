@@ -6,5 +6,7 @@
   "newLinkFormat": "absolute",
   "promptDelete": false,
   "showUnsupportedFiles": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "legacyEditor": false,
+  "livePreview": true
 }

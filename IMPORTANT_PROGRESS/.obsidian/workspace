@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "913cc0df8c8ec191",
+    "id": "26ee79b2fb605334",
     "type": "split",
     "children": [
       {
-        "id": "2486610bf4df4206",
+        "id": "698836885301f77b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quotes/001-Advice from a old king.md",
+            "file": "2021/12-DECEMBER/2021-12-25.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3b341072d12019f3",
+    "id": "69488169ddfe6e83",
     "type": "split",
     "children": [
       {
-        "id": "6112c238eee37b04",
+        "id": "347c73356c062090",
         "type": "tabs",
         "children": [
           {
-            "id": "1c82bca516a8448a",
+            "id": "89ca9f50e6f9cf93",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "a3db52ff9dcfcbd3",
+            "id": "1ded71ba289f97d0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#programming",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,50 +53,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 300
   },
   "right": {
-    "id": "6cbdb39286a7ae80",
+    "id": "9ba3171a2abf3ba8",
     "type": "split",
     "children": [
       {
-        "id": "d8afc6bbdac10f96",
+        "id": "a2733702a5229920",
         "type": "tabs",
         "children": [
           {
-            "id": "89d135ecdc4f99b3",
+            "id": "12a09ae126d80e25",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quotes/001-Advice from a old king.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "2021/12-DECEMBER/2021-12-25.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "7ec5266d49ad050b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "61d6b3c5149d5a79",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -106,17 +87,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2486610bf4df4206",
+  "active": "698836885301f77b",
   "lastOpenFiles": [
-    "Quotes/001-Advice from a old king.md",
-    "Quotes/000-MOC.md",
-    "Writings/Life/004-I am charging.md",
-    "Programming/Book-The_MODERN_JAVASCRIPT_COLLECTION/001-.md",
-    "Programming/Book-The_MODERN_JAVASCRIPT_COLLECTION/000-MOC.md",
-    "Programming/Book-The_MODERN_JAVASCRIPT_COLLECTION/008-G.md",
-    "00-template/000-MOC.md",
-    "00-template/111-.md",
-    "00-template/111- 1.md",
-    "Fish/001-Terms.md"
+    "2021/12-DECEMBER/2021-12-25.md",
+    "2021/12-DECEMBER/2021-12-24.md"
   ]
 }
