@@ -10,7 +10,7 @@
 [[Programming/Cpp/010-Friend Function in C++]]
 [[Programming/Cpp/011-x]]
 [[Programming/Cpp/012-Strcat]]
-[[013-]]
+[[Programming/Cpp/013-Pointers In C C++]]
 [[014-]]
 [[015-]]
 [[016-]]

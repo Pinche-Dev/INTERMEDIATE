@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Cpp/012-Strcat.md",
+            "file": "Programming/Cpp/013-Pointers In C C++.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Cpp/012-Strcat.md",
+                "file": "Programming/Cpp/013-Pointers In C C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,8 @@
   },
   "active": "2486610bf4df4206",
   "lastOpenFiles": [
+    "Programming/Cpp/013-Pointers In C C++.md",
+    "Programming/Cpp/000-CPP-MOC.md",
     "Programming/Cpp/012-Strcat.md",
     "Quotes/001-Advice from a old king.md",
     "Quotes/000-MOC.md",
@@ -115,8 +117,6 @@
     "Programming/Book-The_MODERN_JAVASCRIPT_COLLECTION/001-.md",
     "Programming/Book-The_MODERN_JAVASCRIPT_COLLECTION/000-MOC.md",
     "Programming/Book-The_MODERN_JAVASCRIPT_COLLECTION/008-G.md",
-    "00-template/000-MOC.md",
-    "00-template/111-.md",
-    "00-template/111- 1.md"
+    "00-template/000-MOC.md"
   ]
 }

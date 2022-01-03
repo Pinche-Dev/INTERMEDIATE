@@ -10,7 +10,7 @@
 [[010-]]
 [[YoutubeVideosNotes/Obsidian/011-]]
 [[YoutubeVideosNotes/Obsidian/012-]]
-[[013-]]
+[[YoutubeVideosNotes/Obsidian/013-]]
 [[014-]]
 [[015-]]
 [[016-]]
