@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "698836885301f77b",
+        "id": "2b01274933c85990",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022/02-FEBRUARY/2022-02-3.md",
+            "file": "2022/02-FEBRUARY/2022-02-9.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022/02-FEBRUARY/2022-02-3.md",
+                "file": "2022/02-FEBRUARY/2022-02-9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "698836885301f77b",
+  "active": "2b01274933c85990",
   "lastOpenFiles": [
-    "2022/02-FEBRUARY/2022-02-3.md",
-    "2022/01-JANUARY/2022-01-31.md",
+    "2022/02-FEBRUARY/2022-02-9.md",
+    "2022/02-FEBRUARY/2022-02-7.md",
+    "2022/02-FEBRUARY/2022-02-6.md",
+    "2022/01-JANUARY/HOSPITAL.md",
     "2022/01-JANUARY/2022-01-30.md",
+    "2022/01-JANUARY/2022-01-29.md",
+    "2022/01-JANUARY/2022-01-28.md",
     "2022/01-JANUARY/2022-01-27.md",
     "2022/01-JANUARY/2022-01-26.md",
-    "2022/01-JANUARY/2022-01-25.md",
-    "2022/01-JANUARY/2022-01-6.md",
-    "2022/01-JANUARY/2022-01-5.md",
-    "2022/01-JANUARY/2022-01-3.md",
-    "2022/01-JANUARY/2022-01-9.md"
+    "2022/01-JANUARY/2022-01-25.md"
   ]
 }
