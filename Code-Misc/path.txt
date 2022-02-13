@@ -1,0 +1,3 @@
+core module NodeJS: {path}
+const path = require('path')
+__dirname ==== Note: represents the absolute path from the OS to the main project directory

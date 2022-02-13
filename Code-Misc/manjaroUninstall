@@ -1,0 +1,5 @@
+
+sudo pacman -R gnome-maps
+sudo pacman -R geary
+lollypop
+

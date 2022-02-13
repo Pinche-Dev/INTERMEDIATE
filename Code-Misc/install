@@ -1,0 +1,48 @@
+clone takenote.dev
+
+sudo snap install todoist
+
+//startup application
+http://archive.ubuntu.com/ubuntu/pool/main/g/gnome-session/gnome-startup-applications_3.28.1-0ubuntu3_amd64.deb
+
+http://archive.ubuntu.com/ubuntu/pool/main/g/gnome-session/gnome-startup-applications_3.28.1-0ubuntu3_amd64.deb
+
+thumbnail for your EPUB:::
+https://github.com/marianosimone/epub-thumbnailer
+
+
+aurman  burpsuite  dapper  debtap  dropbox  kazam  libadwaita libpamac obsidian 
+libpamac-snap-plugin  evernote-beta-bin  microsoft-edge-beta-bin  onedrive-abraunegg  open-dyslexic-fonts notion-app-nativefier 
+python2-twodict-git  nodejs-nativefier  nodejs-nopt  startup-settings-git  vscodium-bin  ruby-fusuma  vscodium-bin-marketplace  libpamac-flatpak-plugin youtube-dl-gui-git  ttf-firacode   libcurl-openssl-1.0  google-chrome 
+
+
+
+ruby-fusuma 
+startup-settings-git 
+visual-studio-code-bin 
+visual-studio-code-insiders-bin 
+vlc
+
+
+###### Fri Oct 15 11:10:51 NPT 2021
+
+anki-official-binary-bundle
+c++-gtk-utils
+desktop-dimmer
+dropbox
+epub-thumbnailer-git
+freedownloadmanager
+gammy
+gitkraken
+gnome-shell-extension-espresso-git
+google-chrome
+google-chrome-beta
+lux
+microsoft-edge-dev-bin
+obsidian
+ruby-fusuma
+startup-settings-git
+ttf-opendyslexic
+visual-studio-code-bin
+visual-studio-code-insiders-bin
+woeusb-gui

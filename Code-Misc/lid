@@ -1,0 +1,39 @@
+/etc/systemd/logind.conf
+HandleLidSwitch=lock (turns off the screen while running apps)
+
+# sudo su
+echo 'HandleLidSwitch=ignore' | tee --append /etc/systemd/logind.conf
+echo 'HandleLidSwitchDocked=ignore' | tee --append /etc/systemd/logind.conf
+sudo service systemd-logind restart
+
+
+# sudo su
+echo 'event=button/lid.*' | tee --append /etc/acpi/events/lm_lid
+echo 'action=/etc/acpi/lid.sh' | tee --append /etc/acpi/events/lm_lid
+touch /etc/acpi/lid.sh
+chmod +x /etc/acpi/lid.sh
+
+
+
+
+
+
+
+
+Edit the /etc/acpi/lid.sh file, paste following content and replace the your_username with your main user name:
+
+#!/bin/bash
+ 
+USER=pinche
+ 
+grep -q close /proc/acpi/button/lid/*/state
+ 
+if [ $? = 0 ]; then
+  su -c  "sleep 1 && xset -display :0.0 dpms force off" - $USER
+fi
+ 
+grep -q open /proc/acpi/button/lid/*/state
+ 
+if [ $? = 0 ]; then
+  su -c  "xset -display :0 dpms force on &> /tmp/screen.lid" - $USER
+fi

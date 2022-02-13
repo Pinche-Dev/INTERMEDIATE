@@ -1,0 +1,2 @@
+git config --global user.name "Pinche-Dev"
+git config  --global user.email "Pinche.dev@gmail.com"

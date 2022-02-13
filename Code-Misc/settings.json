@@ -1,0 +1,195 @@
+{
+  "files.autoSave": "onFocusChange",
+  "vim.easymotion": true,
+  "vim.incsearch": true,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "vim.hlsearch": true,
+  "vim.sneak": true,
+  "vim.easymotionMarkerooundColor": "#020202",
+  "vim.normalModeKeyBindings": [
+    {
+      "before": ["<leader>", "d"],
+      "after": ["d", "d"]
+    },
+    {
+      "before": ["<tab>"],
+      "commands": ["workbench.action.nextEditor"]
+    },
+    {
+      "before": ["<S-tab>"],
+      "commands": ["workbench.action.previousEditor"]
+    }
+  ],
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "k"],
+      "after": ["<Esc>"]
+    },
+    {
+      "before": ["<C-j>"],
+      "after": ["<Esc>"]
+    },
+    {
+      "before": ["<C-k>"],
+      "after": ["<Esc>"]
+    }
+  ],
+  "vim.visualModeKeyBindings": [
+    {
+      "before": [">"],
+      "after": [">", "g", "v"]
+    },
+    {
+      "before": ["<"],
+      "after": ["<", "g", "v"]
+    }
+  ],
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["<leader>", "d"],
+      "after": ["d", "d"]
+    },
+    {
+      "before": ["<C-n>"],
+      "commands": [":nohl"]
+    },
+    {
+      "before": ["<leader>", "w"],
+      "commands": ["workbench.action.splitEditor"]
+    },
+    {
+      "before": ["<leader>", "e"],
+      "commands": ["workbench.action.toggleSidebarVisibility"]
+    },
+    {
+      "before": ["<leader>", "f"],
+      "commands": ["revealInExplorer"]
+    },
+    {
+      "before": ["<leader>", "h"],
+      "after": ["_"]
+    },
+    {
+      "before": ["<leader>", "l"],
+      "after": ["$"]
+    }
+  ],
+  "vim.leader": "<space>",
+  "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-f>": false,
+    // VS Code new marker @ next occurence
+    "<C-d>": false,
+    // Copy
+    "<C-c>": false,
+    // Cut
+    "<C-x>": false,
+    // Paste
+    "<C-v>": false,
+    "<C-z>": false,
+    "<C-y>": false
+  },
+  "tabnine.experimentalAutoImports": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.iconTheme": "vscode-icons",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "python.languageServer": "Pylance",
+  "editor.fontLigatures": true,
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.tokenColorCustomizations": {
+    // "comments": "#3af3f2"
+    // "comments": "#db1ad5" //pruble
+    // "comments":"#0de70d" //light green
+    // "comments":"#FFD700" //pure gold
+    // "comments":"#D4AF37" //gold
+    "comments":"#3efcfc"
+    // "comments":"#3104fa" //bluish blue
+    
+  },
+  // "bracketPairColorizer.colorMode": "Independent",
+  // "bracketPairColorizer.independentPairColors": [
+  //     [
+  //       "()",
+  //       [
+  //         "Blue"
+  //       ],
+  //       "Red" // use when right bracket is missing
+  //     ],
+  //     [
+  //       "[]",
+  //       [
+  //         "Purple"
+  //       ],
+  //       "Red"
+  //     ],
+  //     [
+  //       "{}",
+  //       [
+  //         "Blue"
+  //       ],
+  //       "Red"
+  //     ]
+  // ],
+  "bracket-pair-colorizer-2.colors": ["LightSkyBlue", "Green", "Orchid"],
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "cSpell.userWords": ["flipside", "nums", "todos"],
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "git.scanRepositories": [
+    "/media/pinche/pinche.dev/GIT",
+    "/media/pinche/pinche.dev/",
+    "./media/pinche/pinche.dev/GIT"
+  ],
+  "projectManager.git.baseFolders": ["/media/pinche/pinche.dev/GIT"],
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "terminal.integrated.fontFamily": "monospace",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "workbench.editorAssociations": [
+    {
+      "viewType": "jupyter.notebook.ipynb",
+      "filenamePattern": "*.ipynb"
+    }
+  ],
+  "[markdown]": {
+
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "bracket-pair-colorizer-2.excludedLanguages": [],
+  "editor.fontFamily": "'Fira Code', 'monospace', monospace, 'Droid Sans Fallback'",
+  "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
+  "vscode-neovim.neovimInitVimPaths.linux": "~/.config/nvim/init.vim",
+  "editor.fontSize": 20,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "jshint.options": {
+    "esversion": 6
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.linkedEditing": true,
+"workbench.colorTheme": "Dobri Next -A04- Cobalt",
+  "pomodoro.longBreak": 9,
+  "pomodoro.repeat": 8,
+  "pomodoro.work": 55,
+  "Notes.notesLocation": "/media/pinche/pinche.dev/Begining/Journalling",
+  "editor.renderWhitespace": "none",
+  "window.zoomLevel": 2,
+  "workbench.sideBar.location": "right"
+}
