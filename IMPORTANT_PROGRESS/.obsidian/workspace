@@ -7,8 +7,12 @@
         "id": "395417da99447908",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022/02-FEBRUARY/2022-02-28.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022/02-FEBRUARY/2022-02-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +88,15 @@
   },
   "active": "395417da99447908",
   "lastOpenFiles": [
-    "2022/01-JANUARY/2022-01-3.md",
-    "2022/01-JANUARY/2022-01-31.md",
-    "2021/10-OCT/pics.md.md",
-    "2021/12-DECEMBER/pics.md.md",
-    "2022/01-JANUARY/2022-01-12.md",
-    "2022/01-JANUARY/2022-01-17.md",
-    "2022/01-JANUARY/2022-01-20.md",
-    "2022/01-JANUARY/2022-01-21.md",
-    "2022/01-JANUARY/2022-01-24.md",
-    "2022/01-JANUARY/2022-01-25.md"
+    "2022/02-FEBRUARY/2022-02-28.md",
+    "2022/02-FEBRUARY/2022-02-18.md",
+    "2022/02-FEBRUARY/2022-02-16.md",
+    "2022/02-FEBRUARY/2022-02-15.md",
+    "2022/02-FEBRUARY/2022-02-13.md",
+    "2022/02-FEBRUARY/2022-02-10.md",
+    "2022/02-FEBRUARY/2022-02-9.md",
+    "2022/02-FEBRUARY/2022-02-8.md",
+    "2022/02-FEBRUARY/2022-02-7.md",
+    "2022/02-FEBRUARY/2022-02-6.md"
   ]
 }
