@@ -1,11 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
-Console.WriteLine("Hello, World!");
 
-static void PrintName(string name)
-{
-    Console.WriteLine("name: "+name);
-}
+// static void PrintName(string name)
+// {
+//     Console.WriteLine("name: "+name);
+// }
 static void Main(string[] args)
 {
     int a;
