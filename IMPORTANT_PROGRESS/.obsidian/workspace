@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ebaff15a6304abd3",
+        "id": "7609a41d78a805f7",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -81,7 +81,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ebaff15a6304abd3",
+  "active": "7609a41d78a805f7",
   "lastOpenFiles": [
     "2022/03-March/cv.md",
     "2022/03-March/2022-03-7.md",
