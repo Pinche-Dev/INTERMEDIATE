@@ -5,8 +5,8 @@ using namespace std;
 int main()
 {
 	string year = "2022";
-	string month = "03";
-	int date = 32;
+	string month = "04";
+	int date = 31;
 	for (int i = 1; i < date; i++)
 	{
 		string date = year + "-" + month + "-" + to_string(i);
