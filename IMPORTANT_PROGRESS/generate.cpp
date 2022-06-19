@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	string year = "2022";
-	string month = "04";
+	string month = "06";
 	int date = 31;
 	for (int i = 1; i < date; i++)
 	{
