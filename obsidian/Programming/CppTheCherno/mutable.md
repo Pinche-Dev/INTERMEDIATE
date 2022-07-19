@@ -1,0 +1,1 @@
+![[Programming/CppTheCherno/media/Pasted image 20220713150921.png]]

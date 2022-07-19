@@ -8,5 +8,6 @@
   "showUnsupportedFiles": true,
   "fileSortOrder": "alphabetical",
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "showLineNumber": true
 }

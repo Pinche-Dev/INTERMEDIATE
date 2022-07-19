@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2486610bf4df4206",
+        "id": "5f610a1e4eb6b9c3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!secret/Thoughts/quotes.md",
+            "file": "Programming/CompetitiveProgramming/001-CompetiveProgramming.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#programming",
+                "query": "competiti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!secret/Thoughts/quotes.md",
+                "file": "Programming/CompetitiveProgramming/001-CompetiveProgramming.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2486610bf4df4206",
+  "active": "5f610a1e4eb6b9c3",
   "lastOpenFiles": [
-    "!secret/Thoughts/quotes.md",
-    "!secret/Icons/Arthur Schopenhauer.md",
-    "Programming/Cpp/013-Pointers In C C++.md",
-    "Programming/Cpp/000-CPP-MOC.md",
-    "Programming/Cpp/012-Strcat.md",
-    "Quotes/001-Advice from a old king.md",
-    "Quotes/000-MOC.md",
-    "Writings/Life/004-I am charging.md",
-    "Programming/Book-The_MODERN_JAVASCRIPT_COLLECTION/001-.md",
-    "Programming/Book-The_MODERN_JAVASCRIPT_COLLECTION/000-MOC.md"
+    "Sambandha.com/003-Imputant.md",
+    "Sambandha.com/002-SambandhaNavigator.md",
+    "Sailing/002-Things to get.md",
+    "Sailing/001-FREE DIVING.md",
+    "Books/CantHurtMe/003-.md",
+    "Books/CantHurtMe/002-Truth.md",
+    "Books/As_A_Man_Thinketh/book.md",
+    "Fish/001-Terms.md",
+    "FilmMaking/003-6 tips for Documentaries.md",
+    "FilmMaking/002-Choosing the topic.md"
   ]
 }
